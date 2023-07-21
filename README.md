@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img width="100%" src="https://via.placeholder.com/800x400" alt="Awesome Header Image">
+  <img width="100%" src="[https://via.placeholder.com/800x400](https://your-image-url.com/awesome_image.jpg)" alt="Awesome Header Image">
 </p>
 
 <!-- Title -->
