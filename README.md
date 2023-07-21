@@ -14,27 +14,13 @@
 <!-- ASCII Art -->
 <p align="center">
   <pre>
-   
-                                                                                                                                                                                                                                                                 
-                                                                                                                                             dddddddd                                                                                                            
-MMMMMMMM               MMMMMMMM                hhhhhhh                                                                                       d::::::d     EEEEEEEEEEEEEEEEEEEEEE                                                                   tttt          
-M:::::::M             M:::::::M                h:::::h                                                                                       d::::::d     E::::::::::::::::::::E                                                                ttt:::t          
-M::::::::M           M::::::::M                h:::::h                                                                                       d::::::d     E::::::::::::::::::::E                                                                t:::::t          
-M:::::::::M         M:::::::::M                h:::::h                                                                                       d:::::d      EE::::::EEEEEEEEE::::E                                                                t:::::t          
-M::::::::::M       M::::::::::M   ooooooooooo   h::::h hhhhh         aaaaaaaaaaaaa      mmmmmmm    mmmmmmm       eeeeeeeeeeee        ddddddddd:::::d        E:::::E       EEEEEE    ssssssssss      mmmmmmm    mmmmmmm     aaaaaaaaaaaaa  ttttttt:::::ttttttt    
-M:::::::::::M     M:::::::::::M oo:::::::::::oo h::::hh:::::hhh      a::::::::::::a   mm:::::::m  m:::::::mm   ee::::::::::::ee    dd::::::::::::::d        E:::::E               ss::::::::::s   mm:::::::m  m:::::::mm   a::::::::::::a t:::::::::::::::::t    
-M:::::::M::::M   M::::M:::::::Mo:::::::::::::::oh::::::::::::::hh    aaaaaaaaa:::::a m::::::::::mm::::::::::m e::::::eeeee:::::ee d::::::::::::::::d        E::::::EEEEEEEEEE   ss:::::::::::::s m::::::::::mm::::::::::m  aaaaaaaaa:::::at:::::::::::::::::t    
-M::::::M M::::M M::::M M::::::Mo:::::ooooo:::::oh:::::::hhh::::::h            a::::a m::::::::::::::::::::::me::::::e     e:::::ed:::::::ddddd:::::d        E:::::::::::::::E   s::::::ssss:::::sm::::::::::::::::::::::m           a::::atttttt:::::::tttttt    
-M::::::M  M::::M::::M  M::::::Mo::::o     o::::oh::::::h   h::::::h    aaaaaaa:::::a m:::::mmm::::::mmm:::::me:::::::eeeee::::::ed::::::d    d:::::d        E:::::::::::::::E    s:::::s  ssssss m:::::mmm::::::mmm:::::m    aaaaaaa:::::a      t:::::t          
-M::::::M   M:::::::M   M::::::Mo::::o     o::::oh:::::h     h:::::h  aa::::::::::::a m::::m   m::::m   m::::me:::::::::::::::::e d:::::d     d:::::d        E::::::EEEEEEEEEE      s::::::s      m::::m   m::::m   m::::m  aa::::::::::::a      t:::::t          
-M::::::M    M:::::M    M::::::Mo::::o     o::::oh:::::h     h:::::h a::::aaaa::::::a m::::m   m::::m   m::::me::::::eeeeeeeeeee  d:::::d     d:::::d        E:::::E                   s::::::s   m::::m   m::::m   m::::m a::::aaaa::::::a      t:::::t          
-M::::::M     MMMMM     M::::::Mo::::o     o::::oh:::::h     h:::::ha::::a    a:::::a m::::m   m::::m   m::::me:::::::e           d:::::d     d:::::d        E:::::E       EEEEEEssssss   s:::::s m::::m   m::::m   m::::ma::::a    a:::::a      t:::::t    tttttt
-M::::::M               M::::::Mo:::::ooooo:::::oh:::::h     h:::::ha::::a    a:::::a m::::m   m::::m   m::::me::::::::e          d::::::ddddd::::::dd     EE::::::EEEEEEEE:::::Es:::::ssss::::::sm::::m   m::::m   m::::ma::::a    a:::::a      t::::::tttt:::::t
-M::::::M               M::::::Mo:::::::::::::::oh:::::h     h:::::ha:::::aaaa::::::a m::::m   m::::m   m::::m e::::::::eeeeeeee   d:::::::::::::::::d     E::::::::::::::::::::Es::::::::::::::s m::::m   m::::m   m::::ma:::::aaaa::::::a      tt::::::::::::::t
-M::::::M               M::::::M oo:::::::::::oo h:::::h     h:::::h a::::::::::aa:::am::::m   m::::m   m::::m  ee:::::::::::::e    d:::::::::ddd::::d     E::::::::::::::::::::E s:::::::::::ss  m::::m   m::::m   m::::m a::::::::::aa:::a       tt:::::::::::tt
-MMMMMMMM               MMMMMMMM   ooooooooooo   hhhhhhh     hhhhhhh  aaaaaaaaaa  aaaammmmmm   mmmmmm   mmmmmm    eeeeeeeeeeeeee     ddddddddd   ddddd     EEEEEEEEEEEEEEEEEEEEEE  sssssssssss    mmmmmm   mmmmmm   mmmmmm  aaaaaaaaaa  aaaa         ttttttttttt  
-                                                  
- </pre>
+ _____   _   _   _   _____   _____       _       ___   _____   _____   _   _   _____   __   __
+|  _  \ | | | | | | |  _  \ |  _  \     | |     /   | /  ___/ /  ___| | | | | /  ___/  \ \ / /
+| |_| | | |_| | | | | |_| | | |_| |     | |     / /| | | |___  | |     | |_| | | |___    \ V /
+|  ___/ |  _  | | | |  _  { |  _  {     | |    / / | | \___  \ | |     |  _  | \___  \    } {
+| |     | | | | | | | |_| | | |_| |     | |___/ /  | |  ___| | | |___  | | | |  ___| |   / ^ \
+|_|     |_| |_| |_| |_____/ |_____/     |______/   |_| /_____/ \_____| |_| |_| /_____/  /_/ \_\
+  </pre>
 </p>
 
 <!-- About Me -->
@@ -79,6 +65,6 @@ Hey there! I'm Mohamed Esmat, a Software Engineer and MERN Stack Developer with 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-esmat-abdalhafiz-frontend-develope)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.your-portfolio-website.com)
