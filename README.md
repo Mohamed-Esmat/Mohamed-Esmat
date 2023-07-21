@@ -1,43 +1,47 @@
 <!-- Header Image -->
 <p align="center">
-  <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+  <img width="100%" src="https://example.com/path/to/header_image.png">
 </p>
 
 <!-- Title -->
-<h1 align="center">Welcome to [Mohamed Esmat]'s Profile! 🚀</h1>
+<h1 align="center">👋 Welcome to [Your Name]'s GitHub Profile! 🚀</h1>
 
-<!-- Typing SVG by DenverCoder1 -->
+<!-- SVG Greetings -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;MERN%20Stack%20Developer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  </a>
+  <img src="https://img.shields.io/badge/-Hello%20World!-1abc9c.svg?style=flat-square">
 </p>
 
 <!-- About Me -->
-## About Me
+## 🙋‍♂️ About Me
 
-Hey there! 👋 I'm [Mohamed Esmat], a passionate Software Engineer and MERN Stack Developer with a strong command over Node.js. As a CS student, I'm always eager to learn and explore new technologies to improve my skills and stay up-to-date with the latest trends in web development.
+Hey there! I'm [Your Name], a Software Engineer and MERN Stack Developer with a passion for creating web applications that bring joy and solve real-world problems. I thrive on continuous learning and enjoy exploring new technologies and best practices in the world of web development.
 
-## Tech Stack 🛠️
+## 🛠️ Tech Stack
 
-- **Frontend Development**: HTML5, CSS3, JavaScript, React.js
-- **UI Frameworks**: Bootstrap, Tailwind CSS, Material-UI
-- **CSS Architecture**: BEM (Block Element Modifier)
-- **Animations**: CSS Transitions, Keyframes
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge">
+</p>
 
-- **Backend Development**: Node.js, Express.js
-- **Database**: MongoDB, Mongoose
-- **Web APIs**: RestAPI, GraphQL (Apollo)
+## 🚀 Fun Facts
 
-- **Tools & Technologies**: Webpack, npm scripts, Jest, Git, GitHub, Visual Studio Code, Sass, GraphQL, MongoDB, Python
+- My day is incomplete without some coding and a cup of freshly brewed coffee. ☕
+- I love exploring the great outdoors and capturing moments through photography. 📸
+- My favorite quote: "The best way to predict the future is to create it." - Abraham Lincoln 🚀
 
-## Fun Facts ⚡
-
-- My perfect day starts and ends with a cup of coffee. ☕
-- I'm a passionate React developer and always looking for new challenges. 💻
-
-## Connect with Me :
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Telegram](https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/your-telegram)
-
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.your-portfolio-website.com)
