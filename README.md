@@ -1,8 +1,6 @@
 <!-- Header Image -->
 <p align="center">
- <img src="https://raw.githubusercontent.com/Mohamed/Esmat/master/intro.gif" alt="👋 Hi there! I'm (Mohamed(Esmat|nd app)|https://esmat-netlify.app)" title="👋 Hi there! I'm (Mohamed(Esmat|nd app)|https://esmat-netlify.app)"/>(https://esmat-netlify.app/)
-
-
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100" />
 </p>
 
 <!-- Title -->
