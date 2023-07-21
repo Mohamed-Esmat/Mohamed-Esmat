@@ -1,22 +1,45 @@
 <!-- Header Image -->
 <p align="center">
-  <img width="100%" src="https://example.com/path/to/header_image.png">
+  <img width="100%" src="https://via.placeholder.com/800x400" alt="Awesome Header Image">
 </p>
 
 <!-- Title -->
-<h1 align="center">👋 Welcome to [Your Name]'s GitHub Profile! 🚀</h1>
+<h1 align="center">👋 Welcome to Moahmed Esmat's GitHub Profile! 🚀</h1>
 
 <!-- SVG Greetings -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Hello%20World!-1abc9c.svg?style=flat-square">
 </p>
 
+<!-- ASCII Art -->
+<p align="center">
+  <pre>
+ _____   _   _   _   _____   _____       _       ___   _____   _____   _   _   _____   __   __
+|  _  \ | | | | | | |  _  \ |  _  \     | |     /   | /  ___/ /  ___| | | | | /  ___/  \ \ / /
+| |_| | | |_| | | | | |_| | | |_| |     | |     / /| | | |___  | |     | |_| | | |___    \ V /
+|  ___/ |  _  | | | |  _  { |  _  {     | |    / / | | \___  \ | |     |  _  | \___  \    } {
+| |     | | | | | | | |_| | | |_| |     | |___/ /  | |  ___| | | |___  | | | |  ___| |   / ^ \
+|_|     |_| |_| |_| |_____/ |_____/     |______/   |_| /_____/ \_____| |_| |_| /_____/  /_/ \_\
+  </pre>
+</p>
+
 <!-- About Me -->
 ## 🙋‍♂️ About Me
 
-Hey there! I'm [Your Name], a Software Engineer and MERN Stack Developer with a passion for creating web applications that bring joy and solve real-world problems. I thrive on continuous learning and enjoy exploring new technologies and best practices in the world of web development.
+Hey there! I'm Mohamed Esmat, a Software Engineer and MERN Stack Developer with a passion for creating web applications that bring joy and solve real-world problems. I thrive on continuous learning and enjoy exploring new technologies and best practices in the world of web development.
 
 ## 🛠️ Tech Stack
+
+- **Frontend Development**: HTML5, CSS3, JavaScript, React.js
+- **UI Frameworks**: Bootstrap, Tailwind CSS, Material-UI
+- **CSS Architecture**: BEM (Block Element Modifier)
+- **Animations**: CSS Transitions, Keyframes
+
+- **Backend Development**: Node.js, Express.js
+- **Database**: MongoDB, Mongoose
+- **Web APIs**: RestAPI, GraphQL (Apollo)
+
+- **Tools & Technologies**: Webpack, npm scripts, Jest, Git, GitHub, Visual Studio Code, Sass, GraphQL, MongoDB
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
