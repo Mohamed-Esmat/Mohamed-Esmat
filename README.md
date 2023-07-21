@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100" />
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="500" />
 </p>
 
 <!-- Title -->
